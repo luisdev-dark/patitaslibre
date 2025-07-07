@@ -1,8 +1,4 @@
-## Landing Page de Adopción de Perritos
 
-Aquí tienes todo lo esencial para crear un README.md profesional, claro y completo para tu proyecto de landing page de adopción de perritos usando HTML, CSS y JavaScript.
-
-# Landing Page - Adopción de Perritos
 
 ## Descripción
 
